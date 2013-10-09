@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36EBB0DB-A01F-4E2B-8844-79329DF04731</string>
+	<key>IDESourceControlProjectName</key>
+	<string>comphair</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFD5919B-14E5-4079-9283-4584F1AA7845</key>
+		<string>https://github.com/schickling/comphair-iphone-customer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>comphair/comphair.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFD5919B-14E5-4079-9283-4584F1AA7845</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/schickling/comphair-iphone-customer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFD5919B-14E5-4079-9283-4584F1AA7845</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFD5919B-14E5-4079-9283-4584F1AA7845</string>
+			<key>IDESourceControlWCCName</key>
+			<string>comphair-iphone-customer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
