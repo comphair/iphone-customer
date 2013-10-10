@@ -125,12 +125,12 @@
 		8F1F3557180601AE00907702 /* comphair */ = {
 			isa = PBXGroup;
 			children = (
-				8FC904FD1806A6F400BB7833 /* logo.png */,
-				8FC904F91806A51000BB7833 /* Storyboard.storyboard */,
 				8F1F3560180601AE00907702 /* AppDelegate.h */,
 				8F1F3561180601AE00907702 /* AppDelegate.m */,
-				8F1F3566180601AE00907702 /* Images.xcassets */,
-				8F1F3563180601AE00907702 /* comphair.xcdatamodeld */,
+				8FC905001806B53B00BB7833 /* Models */,
+				8FC904FF1806B52900BB7833 /* Controllers */,
+				8FC905011806B54100BB7833 /* Views */,
+				8FC905021806B54A00BB7833 /* Resources */,
 				8F1F3558180601AE00907702 /* Supporting Files */,
 			);
 			path = comphair;
@@ -151,6 +151,8 @@
 			isa = PBXGroup;
 			children = (
 				8F1F357A180601AE00907702 /* comphairTests.m */,
+				8FC905051806B78500BB7833 /* Models */,
+				8FC905041806B76A00BB7833 /* Controllers */,
 				8F1F3575180601AE00907702 /* Supporting Files */,
 			);
 			path = comphairTests;
@@ -163,6 +165,60 @@
 				8F1F3577180601AE00907702 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8FC904FF1806B52900BB7833 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		8FC905001806B53B00BB7833 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8F1F3563180601AE00907702 /* comphair.xcdatamodeld */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		8FC905011806B54100BB7833 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8FC904F91806A51000BB7833 /* Storyboard.storyboard */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		8FC905021806B54A00BB7833 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8F1F3566180601AE00907702 /* Images.xcassets */,
+				8FC905031806B55300BB7833 /* Assets */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		8FC905031806B55300BB7833 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				8FC904FD1806A6F400BB7833 /* logo.png */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		8FC905041806B76A00BB7833 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		8FC905051806B78500BB7833 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
